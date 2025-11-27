@@ -70,14 +70,13 @@ plot2d3('gnn', r)
 ```
 OUTPUT:
 
-<img width="740" height="685" alt="Screenshot 2025-10-23 234314" src="https://github.com/user-attachments/assets/1d12151d-20c9-4874-a059-7e693a67bf28" />
-
+<img width="1920" height="1200" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/2f854901-5eb6-42a0-9cb6-c520c9ce3141" />
 
 Cross Correlation
 
-Type in the reference sequence = [1 2 3 4 5 6 7 8]
+Type in the reference sequence = [1 2 3 4 5 6]
 
-Type in the second sequence = [2 4 6 8 10 11 12 13]
+Type in the second sequence = [2 4 6 8 10 12]
 
 
 
