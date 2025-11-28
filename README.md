@@ -72,7 +72,7 @@ plot2d3('gnn', r)
 OUTPUT:
 
 <img width="1920" height="1200" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/2f854901-5eb6-42a0-9cb6-c520c9ce3141" />
-<img width="740" height="1280" alt="LS20251128162631" src="https://github.com/user-attachments/assets/169c1343-00da-425f-a434-6d91bd65ffab" />
+
 
 Cross Correlation
 
@@ -85,6 +85,7 @@ Type in the second sequence = [2 4 6 8 10 11 12 13]
 calculation:
 
 ![LS20251128162629](https://github.com/user-attachments/assets/e12cdb6f-c93c-4359-b1dc-c469a6b5f390)
+<img width="740" height="1280" alt="LS20251128162631" src="https://github.com/user-attachments/assets/169c1343-00da-425f-a434-6d91bd65ffab" />
 
 
 RESULT:
