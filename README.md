@@ -1,3 +1,4 @@
+
 # MEAN-AND-VARIANCE-USING-SCILAB
 AIM: To write a program for mean, variance and cross correlation in SCILAB and verify the output.
 
@@ -71,6 +72,7 @@ plot2d3('gnn', r)
 OUTPUT:
 
 <img width="1920" height="1200" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/2f854901-5eb6-42a0-9cb6-c520c9ce3141" />
+<img width="740" height="1280" alt="LS20251128162631" src="https://github.com/user-attachments/assets/169c1343-00da-425f-a434-6d91bd65ffab" />
 
 Cross Correlation
 
@@ -81,9 +83,8 @@ Type in the second sequence = [2 4 6 8 10 11 12 13]
 
 
 calculation:
-![WhatsApp Image 2025-11-22 at 12 43 06_4a97f25b](https://github.com/user-attachments/assets/7c74c535-5a7d-4196-97cc-ba082d5563be)
 
-![WhatsApp Image 2025-11-22 at 12 43 06_3d61ab83](https://github.com/user-attachments/assets/4e3eae82-e73b-48ca-b31c-ba646324fd30)
+![LS20251128162629](https://github.com/user-attachments/assets/e12cdb6f-c93c-4359-b1dc-c469a6b5f390)
 
 
 RESULT:
